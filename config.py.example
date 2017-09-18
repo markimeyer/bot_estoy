@@ -1,0 +1,14 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+# Configuración de Twitter Apps
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
+
+# Configuración de MySQL
+host=''
+user=''
+password=''
+database=''
